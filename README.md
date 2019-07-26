@@ -2,6 +2,8 @@
 
 The extension allows in a MediWiki the embedding of foreign web pages via an `iframe`.
 
+Edited by Misha to remove references to unknown hosts.
+
 # Usage
 
 `<iframe k="rstudio" p="page" w="800" h="600" />`
