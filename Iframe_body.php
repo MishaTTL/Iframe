@@ -43,13 +43,6 @@ class Iframe {
         "server"   => array(
             "local"     => array("scheme" => "http",  "domain" => "localhost"),
             "locals"    => array("scheme" => "https",   "domain" => "localhost"),
-            "shiny"     => array("scheme" => "http",    "domain" => "localhost:3838"),
-            "shinys"    => array("scheme" => "https",   "domain" => "localhost:3838"),
-            "rstudio"   => array("scheme" => "http",    "domain" => "shiny.rstudio.com"),
-            "shinyapps" => array("scheme" => "http",    "domain" => "shinyapps.io"),
-            "mars"      => array("scheme" => "http",    "domain" => "mars.wiwi.hu-berlin.de"),
-            "wiwi"      => array("scheme" => "https",   "domain" => "shinyapps.wiwi.hu-berlin.de"),
-            "hubox"     => array("scheme" => "https",   "domain" => "box.hu-berlin.de")
         ),
         "size" => array(
             "QQVGA"   => array(   160,   120),
